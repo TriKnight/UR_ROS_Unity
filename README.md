@@ -1,6 +1,6 @@
 # UR_ROS_Unity
-#Add more
-Before upload the Unity package to Git, Please Delete all folder in:
+
+Before uploading the Unity package to Git, Please Delete all folders in:
 ```
 Library/PackageCache
 ```
